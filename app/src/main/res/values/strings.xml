@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">TechConnect</string>
+    <string name="app_title_long">Tech Connect Alberta</string>
+    <string name="app_title_short">TC Alberta</string>
+    <string name="app_logo_description">Tech Connect App Logo</string>
+    <string name="menu_open">Open Menu</string>
+    <string name="menu_close">Close Menu</string>
+    <string name="join_tc_action_btn_label">Join Our Community -></string>
+    <string name="community">Community.</string>
+    <string name="purpose">Purpose.</string>
+    <string name="people">People First.</string>
+    <string name="community_member_icon_description">Community Member Icon</string>
+    <string name="member_across_company_icon_description">Company Icon</string>
+    <string name="partner_icon_description">Partner Icon</string>
+    <string name="success_stories_icon_description">Success Stories Icon</string>
+    <string name="result_section_heading">Results That Matter</string>
 </resources>
